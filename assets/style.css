@@ -1,0 +1,91 @@
+.navbar-custom {
+  background-color: #EED6D3;
+  border-bottom: solid 4px black;
+}
+
+.attribution {
+  display: flex;
+  justify-content: flex-end;
+  text-decoration: none;
+  color: black;
+}
+
+.content {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.card {
+  min-height: 400px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.blockquote p {
+  font-size: xx-large;
+}
+.blockquote .blockquote-footer {
+  font-size: large;
+}
+
+footer {
+  background-color: #B9B7BD;
+  padding: 25px;
+}
+footer a {
+  color: inherit;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  padding: 30px;
+  text-align: center;
+}
+
+.row.single-form {
+  box-shadow: 0 2px 20px 5px rgba(0, 0, 0, 0.5);
+}
+
+.left {
+  background: #B9B7BD;
+  padding: 212px 100px;
+}
+.left h2 {
+  font-family: poppins;
+  color: black;
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.right {
+  padding: 70px 100px;
+  position: relative;
+}
+.right i {
+  position: absolute;
+  font-size: 80px;
+  left: -27px;
+  top: 40%;
+  color: #EED6D3;
+}
+.right button:hover {
+  background: gray;
+}
+
+.contatti {
+  padding-top: 100px;
+}
+
+.container-fluid.mt-5 {
+  padding-bottom: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */
