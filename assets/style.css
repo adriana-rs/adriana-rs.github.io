@@ -50,6 +50,11 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  padding-top: 30px;
+  padding-bottom: 60px ;
+}
+
 .row.single-form {
   box-shadow: 0 2px 20px 5px rgba(0, 0, 0, 0.5);
 }
